@@ -1,0 +1,2 @@
+# AI-Based-Facial-Recognition-for-Smart-Access-Control-and-Identity-Validation-
+This project develops an AI-based facial recognition system for smart access control and identity verification. It uses a person's facial image to identify and authenticate authorized users in real time, helping prevent unauthorized access, reduce identity fraud, and maintain access records using AI and deep learning techniques.
