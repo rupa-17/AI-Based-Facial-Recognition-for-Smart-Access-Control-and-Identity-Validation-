@@ -25,6 +25,7 @@ Deep Learning
 YOLOv8 (Ultralytics)
 
 # 📂Project Structure
+...text\
 AI-Based-Face-Recognition/
 ├── data/          # Dataset and input data
 ├── myvenv/        # Python virtual environment
@@ -33,6 +34,7 @@ AI-Based-Face-Recognition/
 ├── yolov8n.pt     # YOLOv8 model weights
 ├── .gitignore     # Git ignore configuration
 └── README.md      # Project documentation
+...
 
 # ⚙️Installation and Execution
 Clone the repository:
